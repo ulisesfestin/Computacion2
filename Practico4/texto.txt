@@ -1,0 +1,6 @@
+Un descriptor de archivo es un entero 
+positivo que debe ser exclusivo 
+en cada trabajo. El trabajo utiliza 
+un descriptor de archivo para 
+identificar un archivo abierto al 
+realizar operaciones sobre el archivo.
